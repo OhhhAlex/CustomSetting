@@ -1,14 +1,14 @@
 {
   "type": "custom_form",
-  "title": "Your Setting :)",
+  "title": "MysticRaid",
   "icon": {
     "type": "url",
     "data": "https://cdn.shopify.com/s/files/1/1061/1924/files/Unicorn_Emoji.png?9898922749706957214"
   },
   "content": [
     {
-      "type": "label",
-      "text": "FILL IN TEXT HERE! Example text: Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet."
+      "type": "MysticRaid",
+      "text": "Hey Player! Welcome to MysticRaidPE server! MysticRaid includes lots of different exciting things that you may try out! We have lots of more other things coming soon! Remember to vote on our server for daily rewarads. Top voter of the month receives a huge prize! We hope you enjoy MysticRaid and invite your friends! "
     }
   ]
 }
